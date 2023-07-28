@@ -1,0 +1,14 @@
+.item {
+  padding: 0px;
+}
+.list {
+  display: flex;
+  align-items: center;
+}
+.button {
+  width: 100px;
+  height: 30px;
+  margin-left: 50px;
+  background-color: pink;
+  border-radius: 5px;
+}
